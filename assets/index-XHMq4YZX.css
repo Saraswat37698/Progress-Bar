@@ -1,0 +1,1 @@
+body,html{display:flex;justify-content:center;text-align:center}h1{font-weight:400}.Container{border:2px solid black;height:20px;width:500px;border-radius:20px}.ProgressBar{height:100%;width:120%;background-color:#2ac22ada;transform:translate(0);border-radius:20px;position:relative;bottom:0}p{position:absolute;left:230px;bottom:-15px}
